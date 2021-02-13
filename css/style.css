@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #C3509D;
+  background: #ff17ec;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -183,12 +183,12 @@ h6 {
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #c3509D;
+  color: #ff17ec;
 }
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #c3509D;
+  color: #ff17ec;
   text-decoration: none;
 }
 
@@ -251,8 +251,8 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started {
-  background: #F47FCA;
-  border: 2px solid #7F3271;
+  background: #ff17ec;
+  border: 2px solid #ff17ec;
   color: #fff;
 }
 
@@ -267,8 +267,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #c3509d;
-  border-color: #c3509d;
+  background: #ff17ec;
+  border-color: #ff17ec;
   color: #fff;
 }
 
@@ -389,7 +389,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: #C3509D;
+  background: #ff17ec;
   transition: 0.4s;
 }
 
@@ -457,7 +457,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #C3509D;
+  color: #ff17ec;
 }
 
 .mobile-nav-overly {
@@ -575,17 +575,17 @@ h6 {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #C3509D;
+  border: 2px solid #ff17ec;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #C3509D;
+  color: #ff17ec;
   font-size: 24px;
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #C3509D;
+  background: #ff17ec;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -633,7 +633,7 @@ h6 {
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
-  background: #A83F8D;
+  background: #ff17ec;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   color: white;
@@ -685,12 +685,12 @@ h6 {
 
 #why-us .section-header h3,
 #why-us .section-header p {
-  color: #A83F8D;
+  color: #ff17ec;
 }
 
 #why-us .card {
-  background: #A83F8D;
-  border-color: #F47FCA;
+  background: #ff17ec;
+  border-color: #ff17ec;
   box-shadow: 0 10px 20px 0 rgba(68, 88, 144, 0.1);
 
   border-radius: 10px;
@@ -1237,7 +1237,7 @@ color: white;
 }
 
 #footer .footer-top {
-  background: #A83F8D;
+  background: #ff17ec;
   padding: 60px 0 30px 0;
 }
 
