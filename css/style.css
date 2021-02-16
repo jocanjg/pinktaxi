@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #ff17ec;
+  background: #FA67E7;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -183,12 +183,12 @@ h6 {
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #ff17ec;
+  color: #FA67E7;
 }
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #ff17ec;
+  color: #FA67E7;
   text-decoration: none;
 }
 
@@ -247,13 +247,14 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 0 20px 20px 0;
-  color: #fff;
+  color: #fa67e7;
+  background: #fff;
 }
 
 #intro .intro-info .btn-get-started {
-  background: #ff17ec;
-  border: 2px solid #ff17ec;
-  color: #fff;
+  background: #fff;
+  border: 2px solid #fff;
+  color: #FA67E7;
 }
 
 #intro .intro-info .btn-get-started:hover {
@@ -267,8 +268,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #ff17ec;
-  border-color: #ff17ec;
+  background: #FA67E7;
+  border-color: #FA67E7;
   color: #fff;
 }
 
@@ -389,7 +390,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: #ff17ec;
+  background: #FA67E7;
   transition: 0.4s;
 }
 
@@ -457,7 +458,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #ff17ec;
+  color: #FA67E7;
 }
 
 .mobile-nav-overly {
@@ -575,17 +576,17 @@ h6 {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #ff17ec;
+  border: 2px solid #FA67E7;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #ff17ec;
+  color: #FA67E7;
   font-size: 24px;
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #ff17ec;
+  background: #FA67E7;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -633,7 +634,7 @@ h6 {
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
-  background: #ff17ec;
+  background: #FA67E7;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   color: white;
@@ -685,12 +686,12 @@ h6 {
 
 #why-us .section-header h3,
 #why-us .section-header p {
-  color: #ff17ec;
+  color: #FA67E7;
 }
 
 #why-us .card {
-  background: #ff17ec;
-  border-color: #ff17ec;
+  background: #FA67E7;
+  border-color: #FA67E7;
   box-shadow: 0 10px 20px 0 rgba(68, 88, 144, 0.1);
 
   border-radius: 10px;
@@ -703,7 +704,7 @@ h6 {
 }
 
 #why-us .card:hover {
-  background: #D873BA;
+  background: #ff19EB;
 
   color: white;
 }
@@ -1237,7 +1238,7 @@ color: white;
 }
 
 #footer .footer-top {
-  background: #ff17ec;
+  background: #FA67E7;
   padding: 60px 0 30px 0;
 }
 
@@ -1409,6 +1410,7 @@ color: white;
     float: none;
     margin: auto;
     text-align: center;
+    /* text-shadow: 1px 1px #000; */
   }
 
   #why-us .card {
